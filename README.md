@@ -1,14 +1,13 @@
-# Brute force para android 4 digitos
+# Brute force para Android de 4 dígitos
 
-* ele vai testa senha de 1000 até 10000 sendo assim se a senha tiver 4 digitos ele terá 100% de chances
+* Ele vai testar senhas de 1000 até 9999. Assim, se a senha tiver 4 dígitos, ele terá 100% de chances.
 
-* os android estão melhorando a segurança após 8 tentativas (via adb) ele bloquia por 30 segundos se você errar mais uma ele bloqueia por 60 segundos, então utileze em dispositivos com a versão do android mais antiga.
+* Os dispositivos Android estão melhorando a segurança. Após 8 tentativas (via adb), ele bloqueia por 30 segundos. Se você errar mais uma vez, ele bloqueia por 60 segundos. Portanto, utilize-o em dispositivos com versões mais antigas do Android.
 
-* conecte o usb no dispositivo controlador e a outra entrado no dispositivo a ser testado a senha
+* Conecte o USB no dispositivo controlador e o outro extremo no dispositivo a ser testado para a senha.
 
-* caso peça permisão para conectar via adb com o dispositivo contralador lamento informa-lo mas esse android está atualizado e não sera possivel fazer o atack
+* Caso peça permissão para conectar via adb com o dispositivo controlador, lamento informar que este Android está atualizado e não será possível realizar o ataque.
 
-* codigo feito para estudos, mas caso você seja um red-hat iniciante pode mehlorar para ele tenta fazer o atack em outros dispositivos.
+* Código feito para estudos. No entanto, se você for um iniciante no campo da segurança, pode melhorá-lo para tentar realizar o ataque em outros dispositivos.
 
-
-# Criador do codigo [Marteex](https://coffemarteex.netlify.app/)
+* Criador do código: [Marteex](https://coffemarteex.netlify.app/)
